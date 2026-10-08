@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-frontend-mh9c.vercel.app"><strong>🚀 View the live portfolio</strong></a>
+</p>
+
+<p align="center">
   <a href="#features">Features</a> ·
   <a href="#getting-started">Getting started</a> ·
   <a href="#content-management">Content management</a> ·
@@ -210,4 +214,3 @@ For layout, animation, and styling changes, edit the relevant component and Sass
 ## License
 
 No open-source license has been provided for this project. Unless a license is added, all rights remain with the copyright holder.
-
